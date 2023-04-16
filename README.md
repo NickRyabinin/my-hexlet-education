@@ -1,1 +1,1 @@
-For educational purposes only. Nothing special.
+Hello, Hexlet! How are you?
