@@ -1,2 +1,2 @@
-Hello, Hexlet! How are you?
-experiment with amend
+Hello, people! How are you?
+I wish you well!
