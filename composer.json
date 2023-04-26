@@ -1,0 +1,13 @@
+{
+    "name": "slim/slim",
+    "description": "slim micro-framework",
+    "require-dev": {
+        "slim/slim": "^4.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Slim\\Slim\\": "src/"
+        }
+    },
+    "require": {}
+}
