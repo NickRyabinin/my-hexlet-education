@@ -1,13 +1,8 @@
 {
-    "name": "slim/slim",
-    "description": "slim micro-framework",
-    "require-dev": {
+    "require": {
         "slim/slim": "^4.11"
     },
-    "autoload": {
-        "psr-4": {
-            "Slim\\Slim\\": "src/"
-        }
-    },
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^10.1"
+    }
 }
